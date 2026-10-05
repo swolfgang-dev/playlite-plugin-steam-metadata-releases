@@ -1,4 +1,4 @@
-# Steam for Playlite
+# Steam Metadata for Playlite
 
 This repository distributes plugin packages and metadata. Development takes place separately.
 
